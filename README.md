@@ -151,6 +151,10 @@ int main()
 
 
 ##OUTPUT
+
+
+
+
 ![Screenshot from 2024-04-25 16-03-19](https://github.com/Aaron-I/Linux-Process-API-fork-wait-exec/assets/139863034/f2267de0-50d9-48a0-814e-5d5ff8175b1d)
 
 
